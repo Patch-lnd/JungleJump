@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://bccnaqlvxn45w"]
+
+[ext_resource type="Texture2D" uid="uid://b4or66isx12u0" path="res://Jungle Asset Pack/Jungle Asset Pack/jungle tileset/obj1.png" id="1_c6xkf"]
+
+[node name="Stump" type="Area2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+texture = ExtResource("1_c6xkf")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-41, 40.5, 41, 40.5, 41, -38.7, 37.4, -40.5, -41, -40.5)

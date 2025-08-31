@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bebdx4eq4nj2c"
+path="res://.godot/imported/jumping_sound.mp3-e4b3af5b9aa2ca41a3d607b82c21f465.mp3str"
+
+[deps]
+
+source_file="res://Jungle Asset Pack/Jungle Asset Pack/jumping_sound.mp3"
+dest_files=["res://.godot/imported/jumping_sound.mp3-e4b3af5b9aa2ca41a3d607b82c21f465.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
